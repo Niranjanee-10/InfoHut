@@ -1,0 +1,21 @@
+.home{
+    width: 500px;
+    
+    overflow: hidden;
+    margin: 30 0 0 30px;
+    margin:auto;
+    padding: 60px;
+    background:white;
+    border-radius: 15px;
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  img{
+    padding-left: 0px;
+    padding-right: 30px;
+  }
+  h1{
+    font-family: "brush script mt";
+    font-size:300%;
+    color:purple;
+  }
