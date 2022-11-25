@@ -1,0 +1,16 @@
+.PasswordStrength {
+    border-color: #4285F4;
+    padding: 25px;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+.PasswordStrength p {
+    display: flex;
+}
+
+.PasswordStrength input {
+    padding: 5px;
+    flex-grow: 1;
+    outline: none;
+}
